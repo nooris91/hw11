@@ -30,7 +30,7 @@ The above map represents the cities in [city_distances.dat](../city_distances.da
 * You need to use the provided [Makefile](../Makefile) with updates for the compile files. This will make sure we can compile everything correctly, and run the same program for everyone. 
 * You will want to write the program using:
   * Everything you have learned in CS 5001, 5004, and 5008 about proper program design. Including proper abstraction / use of functions, documentation /comments, test-cases, and proper use of data structures.
-  * You may use any data structures you have learned in this course, including files from past homeworks (or modified ones at least).
+  * You may use any data structures you have learned in this course, including files from past homeworks / class / team activities (or modified ones at least - everything done in this class is fair game).
 
 ### Safe Assumptions
 * The file formats are as follows:
